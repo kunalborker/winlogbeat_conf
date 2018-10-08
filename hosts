@@ -1,0 +1,8 @@
+[Windows]
+win1
+
+[Windows:vars]
+ansible_user=Administrator
+ansible_password=P@9001pp
+ansible_port=5985
+ansible_connection=winrm
